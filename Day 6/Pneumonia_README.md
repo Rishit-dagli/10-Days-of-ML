@@ -1,0 +1,1 @@
+This notebook is created and made public on Kaggle, a copy of it is pasted here. For the latest copy of the same please follow this link - https://www.kaggle.com/rishitdagli/binary-classification-tensorflow-pneumonia-pred
