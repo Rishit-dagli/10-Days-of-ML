@@ -4,13 +4,14 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2F10-Days-of-ML)
 ![GitHub stars](https://img.shields.io/github/stars/Rishit-dagli/10-Days-of-ML?style=social)
 
-
 Repository for 10 Days of ML, a TFUG Mumbai initiative. All the code would be pushed to the repo everyday at around 7 PM IST. The btter part would be all the codes would have explanations, which means if you are stuck on any part I do not expect you to copy/ paste but to understand the conncepts properly.
 
 ## Pre-requisite
 
 * You shoud have an urge to learn
 * It is ok to fail in some part, but try experimenting with the notebook and the hyper parameters
+
+## [Blog](https://towardsdatascience.com/tips-to-building-better-deep-learning-models-from-10-days-of-ml-challenge-2cd84f12e0a4)
 
 ## Making this better
 
