@@ -13,6 +13,9 @@ Repository for 10 Days of ML, a TFUG Mumbai initiative. All the code would be pu
 
 ## [Blog](https://towardsdatascience.com/tips-to-building-better-deep-learning-models-from-10-days-of-ml-challenge-2cd84f12e0a4)
 
+My blog about this also got featured in official 
+[TensorFLow Blog](https://blog.tensorflow.org/2020/05/tensorflow-user-groups-updates-from-around-the-world.html).
+
 ## Making this better
 
 If you have any suggestions or efficient ways of solving the problems please submit a PR after reading the [Code of Conduct](https://github.com/Rishit-dagli/10-Days-of-ML/CODE_OF_CONDUCT.md)
