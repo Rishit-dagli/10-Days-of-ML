@@ -14,7 +14,7 @@ Repository for 10 Days of ML, a [TFUG Mumbai](https://www.meetup.com/tfugmumbai/
 ## [Blog](https://towardsdatascience.com/tips-to-building-better-deep-learning-models-from-10-days-of-ml-challenge-2cd84f12e0a4)
 
 My blog about this also got featured in official 
-[TensorFLow Blog](https://blog.tensorflow.org/2020/05/tensorflow-user-groups-updates-from-around-the-world.html).
+[TensorFlow Blog](https://blog.tensorflow.org/2020/05/tensorflow-user-groups-updates-from-around-the-world.html).
 
 ## Making this better
 
